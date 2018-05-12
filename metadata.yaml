@@ -1,0 +1,28 @@
+_repo: Journeys-Through-Bookland-Vol.-8_24532
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sylvester, Charles Herbert
+    alias: Sylvester, Charles H.
+    gutenberg_agent_id: '1875'
+    url: http://www.gutenberg.org/2009/agents/1875
+description: ''
+gutenberg_bookshelf: Children's Anthologies
+gutenberg_issued: '2008-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24532'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- Collections'
+- !lcc 'PN'
+- !lcc 'PZ'
+- !lcsh 'Children''s literature'
+title: Journeys Through Bookland, Vol. 8
+url: http://www.gutenberg.org/ebooks/24532
